@@ -5,38 +5,38 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6285878313791' ganti nomor kalian '628xxxxxx'
-//KiZakiXD ganti nama kalian xxxxz
+// '201507384088' ganti nomor kalian '628xxxxxx'
+//Gaara ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['201507384088']
+global.pengguna = 'Gaaraxploite'
 global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.author = 'ī.am/𝘨𝘢𝘢𝘳𝘢ꪶ͢𝚍𝚎𝚟ꫂ⁩'
+global.pemilik = ['201507384088'] 
+global.ownernomer = '201507384088'
+global.ownername = 'ī.am/𝘨𝘢𝘢𝘳𝘢ꪶ͢𝚍𝚎𝚟ꫂ⁩'
+global.botname = 'Ren - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '201507384088'
+global.footer = '𝚁 𝙴 𝙽'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Findi  Nurfita' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
-global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.yt = 'https://www.youtube.com/gaaraofc' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/gaara_xploite'
+global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '081326024103'
+global.gopay = '081328625619'
+global.wame = 'wa.me/201507384088'
+global.email = 'gaarasetyawan@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.sc = 'https://bit.ly/gaara'
+global.packname = '"{\nAuthor: Gaara"\n"Bot Number: 66935253643"\n"Bot Name: Ren- MD"\n"Instagram: @gaara_xploite"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']

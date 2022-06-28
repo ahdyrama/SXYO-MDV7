@@ -1,5 +1,5 @@
 {
-  "name": "chitanda-md",
+  "name": "ren-md",
   "version": "4.0.0",
   "description": "No Description",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Call Me Jaki",
+  "author": "Gaara",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
