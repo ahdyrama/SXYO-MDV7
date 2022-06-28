@@ -13,10 +13,10 @@ global.autoReadAll = true
 global.owner = ['201507384088']
 global.pengguna = 'Gaaraxploite'
 global.premium = []
-global.author = 'ī.am/𝘨𝘢𝘢𝘳𝘢ꪶ͢𝚍𝚎𝚟ꫂ⁩'
+global.author = 'Findi Nurfita⁩'
 global.pemilik = ['201507384088'] 
 global.ownernomer = '201507384088'
-global.ownername = 'ī.am/𝘨𝘢𝘢𝘳𝘢ꪶ͢𝚍𝚎𝚟ꫂ⁩'
+global.ownername = 'Gaara Setyawan'
 global.botname = 'Ren - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
@@ -25,7 +25,7 @@ global.footer = '𝚁 𝙴 𝙽'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Findi  Nurfita' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
-global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
+global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner Bot'
 global.yt = 'https://www.youtube.com/gaaraofc' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/gaara_xploite'
 global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
@@ -36,7 +36,7 @@ global.email = 'gaarasetyawan@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/gaara'
-global.packname = '"{\nAuthor: Gaara"\n"Bot Number: 66935253643"\n"Bot Name: Ren- MD"\n"Instagram: @gaara_xploite"\n}' 
+global.packname = '"{\nAuthor: Gaara Setyawan"\n"Bot Number: +237677670414"\n"Bot Name: Ren- MD"\n"Instagram: @gaara_xploite"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -396,7 +396,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 3K_\n   _• Sewa Bot 1 Bulan : 5K_\n   _• Sewa Bot 1 Tahun : 15K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
