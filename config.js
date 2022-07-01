@@ -10,33 +10,33 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['201507384088']
-global.pengguna = 'Gaaraxploite'
+global.owner = ['6283110508453']
+global.pengguna = 'Satria'
 global.premium = []
 global.author = 'Findi Nurfita⁩'
-global.pemilik = ['201507384088'] 
-global.ownernomer = '201507384088'
-global.ownername = 'Gaara Setyawan'
-global.botname = 'Ren - MD'
+global.pemilik = ['6283110508453'] 
+global.ownernomer = '6283110508453'
+global.ownername = 'Satria'
+global.botname = 'XX4ZU Printer'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '201507384088'
-global.footer = '𝚁 𝙴 𝙽'
+global.meki = '6283110508453'
+global.footer = 'Satria'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Findi  Nurfita' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner Bot'
 global.yt = 'https://www.youtube.com/gaaraofc' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/gaara_xploite'
+global.ig = 'https://instagram.com/satria'
 global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '081326024103'
-global.gopay = '081328625619'
-global.wame = 'wa.me/201507384088'
-global.email = 'gaarasetyawan@gmail.com'
+global.dana = '083110508453'
+global.gopay = '083110508453'
+global.wame = 'wa.me/6283110508453'
+global.email = 'satria@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/gaara'
-global.packname = '"{\nAuthor: Gaara Setyawan"\n"Bot Number: +237677670414"\n"Bot Name: Ren- MD"\n"Instagram: @gaara_xploite"\n}' 
+global.packname = '"{\nAuthor: Satria"\n"Bot Number: +237677670414"\n"Bot Name: XX4ZU Printer- MD"\n"Instagram: @gaara_xploite"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -396,7 +396,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 3K_\n   _• Sewa Bot 1 Bulan : 5K_\n   _• Sewa Bot 1 Tahun : 15K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 5K_\n   _• Sewa Bot 1 Bulan : 10K_\n   _• Sewa Bot 1 Tahun : 25K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
